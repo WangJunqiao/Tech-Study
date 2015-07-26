@@ -1,2 +1,1 @@
-This repository is used for store some resource in process of learning some basic technology.
-
+This repository store all files I create during graduate final project.
